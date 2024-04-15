@@ -7,8 +7,8 @@
 
 ### About me 💬 :
 
-#### I'm 15 years old and learing JS, HTML, CSS, php now.
+#### I'm 15 years old and one of computer science students in high school.
 
-languages 
+languages : Python, js, html, css, php 
 
 
