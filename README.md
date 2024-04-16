@@ -11,7 +11,7 @@
 
 #### I'm 15 years old and one of computer science students in high school.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python)](https://skillicons.dev)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 ### I'm interested in :
 - Deep learning 🧠 
