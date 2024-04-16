@@ -8,6 +8,6 @@
 ### About me 💬 :
 
 #### I'm 15 years old and one of computer science students in high school.
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,figma&theme=light)](https://skillicons.dev)
 
 
