@@ -9,7 +9,7 @@
 
 ### About me 💬 :
 
-#### I'm 15 years old and one of computer science students in high school.
+#### I'm 16 years old and one of computer science students in high school.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,c)](https://skillicons.dev)
 
 
